@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f70a31ab1e5cb459c87467fed22f8300, type: 3}
+  m_Name: Knight
+  m_EditorClassIdentifier: Assembly-CSharp::TWR.Data.WarriorDefinitionSO
+  warriorId: infantry
+  displayName: Infantry
+  faction: 0
+  role: 0
+  targetPriority: 0
+  baseHP: 200
+  baseATK: 30
+  baseRange: 1.5
+  baseAttackSpeed: 1
+  spawnCooldown: 6
+  talents:
+  - {fileID: 11400000, guid: ccf70ddd4080749ceacfb82c47dc00a6, type: 2}
+  - {fileID: 11400000, guid: 72ef2dadd0caf45c19a7c15cbd2d3073, type: 2}
+  evolvedForm: {fileID: 0}
+  prefab: {fileID: 4227820078393157420, guid: 4f45c2817a67e41798a0f18c48ef4523, type: 3}
+  evolvedPrefab: {fileID: 0}
+  icon: {fileID: 0}

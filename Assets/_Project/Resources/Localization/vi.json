@@ -1,0 +1,15 @@
+{
+  "ui.menu.start": "Bat dau",
+  "ui.menu.settings": "Cai dat",
+  "ui.menu.shop": "Cua hang",
+  "ui.menu.deck": "Bo bai",
+  "ui.settings.language": "Ngon ngu",
+  "ui.lobby.gold": "Vang: {0}",
+  "ui.lobby.gems": "Ngoc: {0}",
+  "ui.battle.result.victory": "Chien thang!",
+  "ui.battle.result.defeat": "That bai",
+  "gameplay.score": "Diem: {0}",
+  "gameplay.wave": "Dot {0}",
+  "ui.greeting.player": "Xin chao, {name}!",
+  "ui.matchmaking.status": "Dang tim tran cho {name}..."
+}

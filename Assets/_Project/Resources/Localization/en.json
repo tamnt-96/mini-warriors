@@ -1,0 +1,15 @@
+{
+  "ui.menu.start": "Start",
+  "ui.menu.settings": "Settings",
+  "ui.menu.shop": "Shop",
+  "ui.menu.deck": "Deck",
+  "ui.settings.language": "Language",
+  "ui.lobby.gold": "Gold: {0}",
+  "ui.lobby.gems": "Gems: {0}",
+  "ui.battle.result.victory": "Victory!",
+  "ui.battle.result.defeat": "Defeat",
+  "gameplay.score": "Score: {0}",
+  "gameplay.wave": "Wave {0}",
+  "ui.greeting.player": "Hello, {name}!",
+  "ui.matchmaking.status": "Finding match for {name}..."
+}

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f70a31ab1e5cb459c87467fed22f8300, type: 3}
+  m_Name: Ranged
+  m_EditorClassIdentifier: Assembly-CSharp::TWR.Data.WarriorDefinitionSO
+  warriorId: ranged
+  displayName: Ranged
+  faction: 2
+  role: 2
+  targetPriority: 2
+  baseHP: 80
+  baseATK: 60
+  baseRange: 4
+  baseAttackSpeed: 1.2
+  spawnCooldown: 4
+  talents:
+  - {fileID: 11400000, guid: 9753ff55898e44ba5bf0780006f3783d, type: 2}
+  - {fileID: 11400000, guid: 4c172110321f74772bde0003199e7e3e, type: 2}
+  - {fileID: 11400000, guid: 6b791c0f338a3401f81b49d93c5590fd, type: 2}
+  - {fileID: 11400000, guid: 268c628653f2c4d429eae2638d3b6479, type: 2}
+  evolvedForm: {fileID: 0}
+  prefab: {fileID: 4227820078393157420, guid: c37ff034c11174f998cfbfb6f8713f84, type: 3}
+  evolvedPrefab: {fileID: 0}
+  icon: {fileID: 0}

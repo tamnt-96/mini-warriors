@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f70a31ab1e5cb459c87467fed22f8300, type: 3}
+  m_Name: Magic
+  m_EditorClassIdentifier: Assembly-CSharp::TWR.Data.WarriorDefinitionSO
+  warriorId: magic
+  displayName: Magic
+  faction: 4
+  role: 4
+  targetPriority: 3
+  baseHP: 70
+  baseATK: 55
+  baseRange: 3.5
+  baseAttackSpeed: 1
+  spawnCooldown: 5
+  talents:
+  - {fileID: 11400000, guid: 3ab311876b9a9487188062b34fdf88ef, type: 2}
+  evolvedForm: {fileID: 0}
+  prefab: {fileID: 4227820078393157420, guid: 1fa14027ff8434e24878d2dd2956a945, type: 3}
+  evolvedPrefab: {fileID: 0}
+  icon: {fileID: 0}

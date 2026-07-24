@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f70a31ab1e5cb459c87467fed22f8300, type: 3}
+  m_Name: Assassin
+  m_EditorClassIdentifier: Assembly-CSharp::TWR.Data.WarriorDefinitionSO
+  warriorId: cavalry
+  displayName: Cavalry
+  faction: 3
+  role: 3
+  targetPriority: 1
+  baseHP: 120
+  baseATK: 50
+  baseRange: 1.2
+  baseAttackSpeed: 1.2
+  spawnCooldown: 8
+  talents:
+  - {fileID: 11400000, guid: fa9948d051b574e9894f9b390671f82e, type: 2}
+  evolvedForm: {fileID: 0}
+  prefab: {fileID: 5705789862305241246, guid: d4f983e6354c44b0ca7bf5ab8483b6d7, type: 3}
+  evolvedPrefab: {fileID: 0}
+  icon: {fileID: 0}
